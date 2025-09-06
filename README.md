@@ -1,6 +1,6 @@
-# UOMO E-commerce Website Using ReactJS
+# E-commerce Website Using ReactJS
 
-![uomo-ecommerce-website-reactjs](https://socialify.git.ci/shakti177/uomo-ecommerce-website-reactjs/image?custom_language=React&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Auto)
+ 
 
 ## 📌 Live Demo
 https://uomo-ecommerce-website.netlify.app/
@@ -79,10 +79,10 @@ From your command line, first clone this repo:
 
 ```
 # Clone this repository
-$ https://github.com/shakti177/uomo-ecommerce-website-reactjs.git
+$ https://github.com/mscbuild/-website-reactjs-ecommerce.git
 
 # Go into the repository
-$ cd uomo-ecommerce-website-reactjs
+$ cd -website-reactjs-ecommerce
 
 # Remove current origin repository
 $ git remote remove origin
@@ -99,15 +99,7 @@ $ npm install
 $ npm start
 ```
 
-## Star History
-
-<a href="https://www.star-history.com/#shakti177/uomo-ecommerce-website-reactjs&Timeline">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=shakti177/uomo-ecommerce-website-reactjs&type=Timeline&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=shakti177/uomo-ecommerce-website-reactjs&type=Timeline" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=shakti177/uomo-ecommerce-website-reactjs&type=Timeline" />
- </picture>
-</a>
+ 
 
 👨‍💻 Happy coding!
 ---
