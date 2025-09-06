@@ -1,6 +1,6 @@
 # E-commerce Website Using ReactJS
 
- 
+**Powered by ReactJS, React Router DOM, Material UI, Redux Toolkit, and SwiperJS, our site ensures a smooth, responsive experience across all devices. Shop confidently with features like easy cart management, detailed product views, and instant order confirmations.** 
 
 ## 📌 Live Demo
 https://uomo-ecommerce-website.netlify.app/
