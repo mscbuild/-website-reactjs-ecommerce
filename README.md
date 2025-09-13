@@ -1,7 +1,7 @@
 # E-commerce Website Using ReactJS
 ![](https://komarev.com/ghpvc/?username=mscbuild) 
-![](https://img.shields.io/github/license/mscbuild/-website-reactjs-ecommerce)
- ![](https://img.shields.io/badge/PRs-Welcome-green)
+![GitHub License](https://img.shields.io/github/license/mscbuild/-website-reactjs-ecommerce)
+![](https://img.shields.io/badge/PRs-Welcome-green)
  ![](https://img.shields.io/github/languages/code-size/mscbuild/-website-reactjs-ecommerce)
 ![](https://img.shields.io/badge/code%20style-reactjs-green)
 ![](https://img.shields.io/github/stars/mscbuild)
